@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+*.code-workspace
+
+/bootstrap/data/
+/bootstrap/software/
+/bootstrap/library/
